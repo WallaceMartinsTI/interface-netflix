@@ -10,6 +10,6 @@ Aplicativo desenvolvido no Android Studio fazendo uma pequena parte da interface
 
 </div>
 
-## Licençe
+## License
 
 Para acessar o arquivo de licença [clique aqui](./license).
